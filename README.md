@@ -15,3 +15,8 @@
 * Undoing text
 * Exiting form vi
 * Moving in vi
+
+### Git Projects:
+* Branching
+* Pulling 
+* Pushing

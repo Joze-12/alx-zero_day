@@ -8,3 +8,10 @@
 * Opening Files
 * Saving Files
 * Editing Files
+### Vi Projects:
+* Inserting text
+* cutting text
+* Pasting text
+* Undoing text
+* Exiting form vi
+* Moving in vi
